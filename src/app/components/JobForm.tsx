@@ -65,10 +65,7 @@ export default function JobForm({orgId,jobDoc}:{orgId:string;jobDoc?:Job}) {
             Salary
             <TextField.Root name="salary" defaultValue={jobDoc?.salary || ''}>
               <TextField.Slot>
-                $
-              </TextField.Slot>
-              <TextField.Slot>
-                k/year
+                KES
               </TextField.Slot>
             </TextField.Root>
           </div>
