@@ -10,6 +10,10 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.577.0",
+    "@coreui/coreui": "^5.2.0",
+    "@coreui/coreui-pro": "^5.7.0",
+    "@coreui/react": "^5.4.1",
+    "@coreui/react-pro": "^5.9.0",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-brands-svg-icons": "^6.5.2",
     "@fortawesome/free-regular-svg-icons": "^6.5.2",
